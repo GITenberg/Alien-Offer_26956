@@ -1,0 +1,34 @@
+_repo: Alien-Offer_26956
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Llewellyn
+    gutenberg_agent_id: '32346'
+    url: http://www.gutenberg.org/2009/agents/32346
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sevcik, Al
+    gutenberg_agent_id: '26818'
+    url: http://www.gutenberg.org/2009/agents/26818
+description: In space, a vengeful fleet waited. Then the furred strangers arrived
+  with a plan to save Earth's children, but the General wasn't sure if he could trust
+  an alien.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Science fiction'
+title: Alien Offer
+url: http://www.gutenberg.org/ebooks/26956
